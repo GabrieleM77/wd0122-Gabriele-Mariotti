@@ -1,0 +1,35 @@
+header{
+    
+}
+
+
+
+
+
+.linea{
+display: inline-block;
+
+}
+
+
+.immagine{
+    padding-left: 5%;
+
+    float: left;
+    padding-right: 5%;
+    padding-bottom: 15px ;
+}
+
+nav p{
+    margin-right: 15%;
+    margin-left: 10px;
+}
+
+i{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 60%;
+    right: 15px;
+}
+

@@ -1,0 +1,176 @@
+/* IMPOSTAZIONI GENERALI */
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url("../img/sfondo.png");
+    }
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+        font-weight: bold;
+    }
+    
+    
+    
+    
+    
+    
+    header{
+        text-align: center;
+        background-color: cornflowerblue;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+    div p{
+        color: white;
+    }
+    nav a{
+        color: white;
+    }
+    
+    
+    
+    
+    /* MAIN */
+    
+    h1{
+        margin-block: 15px ;
+        font-size: larger;
+    }
+    section{
+        margin-block: 15px;
+    }
+    main p{
+        margin-block: 15px;
+    }
+    
+    
+    strong{
+        color: rgb(46, 43, 226);
+        text-shadow: 5px;
+    }
+    
+    
+    
+    
+    span{
+        opacity: 0.4;}
+    
+        ul code{
+            background-color: grey;
+            border-radius: 0.4em;
+        }
+    ul:first-of-type li{
+        margin-left: 40px;
+        line-height: 150%;
+    }
+    
+    ol:first-of-type li{
+        margin-left: 40px;
+    }
+     p .class{
+         text-align: center;
+     }
+     
+    table{
+        margin-left: 20%;
+    }
+    
+     table caption{
+         font-weight: bold;
+         
+     }
+    thead {
+        background-color: blue;
+        color: white;
+    }
+    th,
+    td{
+        text-align: center;
+        padding-top: 10%;
+        padding-bottom: 10%;
+        text-align: center;
+    }
+    
+    tr:nth-of-type(2){
+        background-color: grey;
+        
+    }
+    
+    
+    tr:nth-of-type(4){
+        background-color: grey;
+    }
+    
+    
+    
+    
+    
+    iframe{
+        margin-left: 80px;
+        text-align: center;
+        border-radius: 0.4em;
+    }
+    
+    h2{
+        text-align: center;
+    }
+    
+    
+    section{
+        background-color: grey;
+        margin-left: 3%;
+        margin-right: 3%;
+        opacity: 0.6;
+        ;
+    }
+    aside div{
+        background-color: grey;
+        margin-right: 3%;
+        margin-left: 3%;
+        opacity: 0.6;
+    }
+    
+    aside{
+        color: black;
+    }
+    
+    
+    footer{
+        background-color: rgb(47, 2, 99);
+        margin-left: 3%;
+        margin-right: 3%;
+     text-size-adjust: auto;
+     opacity: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */

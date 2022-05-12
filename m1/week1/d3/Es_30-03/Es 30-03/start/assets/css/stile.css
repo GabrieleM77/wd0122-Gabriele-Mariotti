@@ -1,0 +1,31 @@
+/* IMPOSTAZIONI GENERALI */
+
+/* HEADER */
+
+header{background-color: rgb(66, 66, 255); text-align: center; color: white;
+
+
+}
+
+
+/* MAIN */
+
+
+main{text-align: center; font-family: 'Roboto', sans-serif;
+}
+h2{color: blue; 
+}
+h3{text-align: left; font-weight: bold;
+
+}
+address{font-weight: bold;
+}
+
+strong {color: blue;
+}
+
+
+
+/* ELEMENTI NEL MAIN */
+
+/* FOOTER */

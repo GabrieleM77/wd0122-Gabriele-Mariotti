@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ordina la nostra pizza</title>
+</head>
+
+<body>
+
+    <h1>ordina la tua pizza</h1>
+
+    <form method="post">
+
+        <select name="gusto">
+            <option> scegli la tua pizza </option>
+            <option value="margherita"> margherita</option>
+            <option value="diavola"> diavola</option>
+            <option value="capricciosa"> capricciosa </option>
+        </select>
+
+        <h3>scegli il tipo</h3>
+
+        <label for="tipo-sottile"> sottile: </label>
+        <input id="tipo-sottile" value="sottile" type="radio" name="tipo" checked>
+
+
+        <label for="tipo-verace">verace :</label>
+        <input id="tipo-verace" value="verace" type="radio" name="tipo">
+
+        <h3>aggiunte</h3>
+
+        Bufala <input type="checkbox" name="aggiunta-bufala">
+        funghi <input type="checkbox" name="aggiunta-funghi">
+
+<hr>
+
+<h3>dati spedizione</h3>
+<textarea placeholder="indirizzo di consegna" name="indirizzo di consegna" id="indirizzo" cols="30" rows="10"></textarea>
+<label for="nome"> nome </label>
+<input id="nome" type="text" placeholder="scrivi il tuo 
+nome" name="nome">
+
+<hr>
+
+<!---sono 2 modi alternativi, vanno bene entrambi--->
+<button>ordina</button>
+<input type="submit" value="ordina">
+
+
+
+    </form>
+
+</body>
+
+</html>

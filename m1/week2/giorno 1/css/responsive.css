@@ -1,0 +1,25 @@
+
+@media (min-width: 481px){
+    .blocco{
+        width: calc(100% / 2 );
+        text-align: center;
+        display: inline-block;
+        margin-left: .4px;
+        margin-bottom: -4px;
+    }
+
+
+    .blog{
+        width: 1170px;
+        margin: 0 auto;
+    }
+
+
+
+}
+@media (min-width: 1201px){
+    .blocco{
+        width: calc(100% / 3 -2px);
+    }
+
+    }  

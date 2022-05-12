@@ -1,0 +1,182 @@
+/*stili generali*/
+body{
+    color:#393d41;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+}
+h1, h2, h3, h4, h5, h6{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+}
+section{
+    text-align: center;
+    
+}
+/*header*/
+header{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.logo{
+    height: 45px;
+}
+
+/*main*/
+
+.didascalia{
+    margin-bottom: 40px;
+}
+
+.partiamo{
+    background-color: #f04c2f;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    padding-top: 15px;
+    font-size: 0.9em;
+    
+    }
+
+#prima-section{
+    margin-left: 45px;
+    margin-right: 45px;
+    background-image: url(../images/banner.jpg);
+    background-position: center;
+    background-size: contain;
+    padding-bottom: 40px;
+}
+
+#prima-section h1{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: 1.2em;
+    
+}
+#prima-section p{
+    padding-bottom: 15px;
+}
+
+section{
+    padding-bottom: 30px;
+}
+
+article{
+    padding-bottom: 60px;
+}
+
+.primo-div{
+    padding-top: 40px;
+}
+
+#fotopc{
+    border-radius: 100%;
+}
+
+article{
+    text-align: center;
+}
+#sfondo-rosso{
+    background-color: red;
+    color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 40px;
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 45px;
+}
+
+
+
+.bianco{
+    
+    padding-top: 30px;
+    font-size: 1.4em;
+    color: white;
+}
+
+div .citazione{
+    padding-bottom: 30px;
+}
+
+div #sfondo-rosso{
+   padding-top: 30px;
+}
+
+
+.blocco{
+    border-radius: 1%;
+    padding-bottom: 30px;
+    border: solid;
+    border-inline-start-color: #dee1e3;
+    border-width: 1px;
+    color: #393d41; 
+    margin-left: 45px; 
+    margin-right: 45px;
+    
+}
+article img{
+    width: 100%;
+}
+
+.blocco{
+    margin-bottom: 30px;
+}
+
+/*footer*/
+
+footer{
+    color: white;
+    margin-top: 20px;
+    background-color: #25a2c3 ;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.titolo-footer{
+    font-size: 1.8em;
+}
+
+footer h2{
+    font-size: 1.3em;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.linea{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#via-appia{
+    padding-bottom: 30px;
+}
+
+#scritta-opaca{
+    padding-top: 30px;
+    opacity: calc(0.7);
+}
+
+
+
+
+
+
+
